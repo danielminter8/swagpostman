@@ -1,8 +1,8 @@
 package swagpostman
 
 import (
-	"swagpostman/internal/postman"
-	"swagpostman/internal/swagger"
+	"github.com/danielminter8/swagpostman/internal/postman"
+	"github.com/danielminter8/swagpostman/internal/swagger"
 )
 
 type postmanSwag struct {
